@@ -20,3 +20,7 @@
 `const` `goto` `private` `transient`
 `debugger` `implements` `protected` `volatile`
 `double` `import` `public`
+
+---
+***es6***
+添加了let 和const为关键字
