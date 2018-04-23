@@ -8,6 +8,8 @@ JavaScript高级程序设计（第3版），经典教程，超级畅销书！
 
 在线阅读：[https://zhaohaodang.com/pro-js/](https://zhaohaodang.com/pro-js/)
 
+**在原作者的基础上添加了ES6的一些用法和变化**
+
 不停的更新，进度如下：
 
  ![](http://progressed.io/bar/100?title=completed)第1章 JavaScript 简介
